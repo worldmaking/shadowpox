@@ -26,3 +26,16 @@
 *.exe
 *.out
 *.app
+*.tlog
+*.idb
+ofxKinectForWindows2Lib/x64/Debug/ofxKinectForWindows2Lib.log
+*.log
+ofxKinectForWindows2Lib/x64/Debug/ofxKinectForWindows2Lib.pdb
+*.exp
+shadowpox/bin/example-bodyIndex_debug.ilk
+*.ilk
+shadowpox/bin/shadowpox_debug.pdb
+*.cache
+shadowpox/x64/Debug/vc140.pdb
+*.sdf
+*.suo
